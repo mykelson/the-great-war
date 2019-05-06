@@ -9,6 +9,9 @@ solution = main.Solution()
 solution.run("Seven Kingdom Army", 4, 1) # returns 'White Walker Army|6'
 solution.run("Seven Kingdom Army", 10, 5) # returns 'Seven Kingdom Army|5'
 ```
+## Project status
+Project development has stopped completely
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
